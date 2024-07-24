@@ -1,0 +1,22 @@
+.cab{
+
+    color: rgb(241, 70, 190);
+    background-color: rgb(226, 233, 240);
+    display: flex;
+    background-image: -moz-repeating-linear-gradient(red);
+    justify-content: space-between;
+
+
+
+}
+
+.img{
+   width: 5% ;
+
+}
+
+.botao{
+    width:80px ;
+    height: 50px ;
+}
+

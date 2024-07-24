@@ -1,0 +1,25 @@
+.cab{
+    color: brown;
+    background-color: aliceblue;
+    display: flex;
+    background-image: -moz-repeating-linear-gradient(pink);
+    justify-content: space-between;
+}
+
+.img4{
+    width: 20%;
+}
+
+.img5{
+    width: 25%;
+
+}
+.img6{
+    width: 25%;
+
+}
+
+.botao{
+    width:80px ;
+    height: 50px ;
+}

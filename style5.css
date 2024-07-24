@@ -1,0 +1,12 @@
+.cab{
+    color:pink ;
+    background-color: aliceblue;
+    display: flex;
+    background-image: -moz-repeating-linear-gradient(black);
+    justify-content:space-between;
+
+}
+
+.img{
+    width: 20%;
+}

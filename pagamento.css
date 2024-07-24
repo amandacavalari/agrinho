@@ -1,0 +1,14 @@
+.botao{
+    justify-content: center;
+    display: flex;
+    width: 10%;
+    height: 10%;
+    color: black;
+    background-color: aliceblue;
+}
+.pag{
+ justify-content: center;
+ display: flex;
+ color: crimson;
+ background-image: -moz-linear-gradient();
+}
